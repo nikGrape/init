@@ -1,0 +1,3 @@
+kill -KILL $(jobs -p)
+#kill $!
+
