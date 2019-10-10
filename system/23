@@ -1,0 +1,4 @@
+echo after creating a new user
+echo use: su new_user_name
+echo tipe its password
+echo done!

@@ -1,0 +1,2 @@
+nslookup localhost | grep Server | awk '{print $2}'
+ssh user@ipaddress

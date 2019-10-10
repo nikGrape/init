@@ -1,1 +1,1 @@
-deluser --remove-home 'name'
+sudo deluser --remove-home 

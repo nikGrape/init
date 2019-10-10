@@ -1,1 +1,2 @@
-service ssh stop
+pkill ssh
+#or service ssh stop
